@@ -1,8 +1,9 @@
 # reactive-java-training
 
 Links for reference:
+<br/>
 
-https://www.reactivemanifesto.org/
-https://projectreactor.io/
-https://12factor.net/
-https://reactivex.io/
+https://www.reactivemanifesto.org/ <br/>
+https://projectreactor.io/ <br/>
+https://12factor.net/ <br/>
+https://reactivex.io/ <br/>
